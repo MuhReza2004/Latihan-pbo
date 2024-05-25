@@ -1,3 +1,8 @@
+// Author: 
+// Nama    : Muh. Reza
+// Nim     : 13020220070
+// Kelas   : A2
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
